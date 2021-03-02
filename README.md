@@ -1,3 +1,3 @@
 # ufmgPDS1
 Repositório com listas de PDS1. 
-Recomendo que utilizem essas listas para estudo e não apenas para nota, tentem aprender se ainda não sabem, isso é importante!
+Deixo claro que esse repositório foi criado com a finalidade de auxiliar alunos com dificuldades nos estudos.
